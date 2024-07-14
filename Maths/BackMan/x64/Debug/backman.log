@@ -1,3 +1,0 @@
-﻿  Pacman.cpp
-D:\Maths\backman\res\Pacman.cpp(10,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  backman.vcxproj -> D:\Maths\backman\x64\Debug\backman.exe

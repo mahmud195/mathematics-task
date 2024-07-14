@@ -1,0 +1,1 @@
+Bézier curve (pronounced [bezje]) is a mathematically described curve used in computer graphics and animation. In vector images, they are used to model smooth curves that can be scaled indefinitely. The curve is defined by a set of control points with a minimum of two
