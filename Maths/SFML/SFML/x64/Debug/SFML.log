@@ -1,0 +1,20 @@
+﻿  SFML.cpp
+D:\Maths\SFML\SFML\res\SFML.cpp(94,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Maths\SFML\SFML\res\SFML.cpp(94,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML.vcxproj -> D:\Maths\SFML\x64\Debug\SFML.exe

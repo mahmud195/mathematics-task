@@ -1,0 +1,13 @@
+﻿  FOV.cpp
+D:\Maths\FOV\FOV\res\FOV.cpp(26,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Maths\FOV\FOV\res\FOV.cpp(138,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Maths\FOV\FOV\res\FOV.cpp(139,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FOV.vcxproj -> D:\Maths\FOV\x64\Debug\FOV.exe

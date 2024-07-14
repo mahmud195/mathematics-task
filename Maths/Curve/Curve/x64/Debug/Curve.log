@@ -1,0 +1,6 @@
+﻿  Bezier.cpp
+D:\Maths\Curve\Curve\res\Bezier.cpp(61,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Maths\Curve\Curve\res\Bezier.cpp(62,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Maths\Curve\Curve\res\Bezier.cpp(63,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Maths\Curve\Curve\res\Bezier.cpp(70,23): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+  Curve.vcxproj -> D:\Maths\Curve\x64\Debug\Curve.exe

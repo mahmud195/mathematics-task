@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: Two or more files with the name of Parallax.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are res\Parallax.cpp, res\Parallax.cpp.
+  Parallax.vcxproj -> D:\Maths\Parallax\x64\Debug\Parallax.exe
